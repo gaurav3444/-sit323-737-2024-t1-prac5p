@@ -16,4 +16,6 @@
 
 7. tested the apllication
 
-8. then pushed the docker image to a registry using this command :- " docker tag my-web-app username/repository:tag "
+8. then i taged the docker image to a registry using this command :- " docker tag my-web-app username/repository:tag "
+
+9. after that i pushed the image using this command :- " docker push username/repository:tag "
